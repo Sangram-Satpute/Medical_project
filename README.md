@@ -215,6 +215,10 @@ Cloud deployment.
 Advanced role-based authentication.
 Automated report classification.
 Improved NLP-based medical entity extraction.
+
+
+
+
 🎓 Academic Project
 
 Project Name: MedicalClear – AI-Powered Medical Report Analysis System
