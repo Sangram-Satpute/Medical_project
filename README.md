@@ -103,81 +103,9 @@ Python Virtual Environment	Dependency management
       └────────────────────┘
       <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f448c540-da5b-428f-b6af-1200479a7f15" />
 
-📂 Project Structure
-MedicalClear/
-│
-├── manage.py
-│
-├── medicalproject/
-│   ├── __init__.py
-│   ├── settings.py
-│   ├── urls.py
-│   ├── asgi.py
-│   └── wsgi.py
-│
-├── medicareapp/
-│   ├── __init__.py
-│   ├── admin.py
-│   ├── apps.py
-│   ├── forms.py
-│   ├── models.py
-│   ├── views.py
-│   ├── urls.py
-│   ├── llm_service.py
-│   ├── tests.py
-│   └── migrations/
-│
-├── Templates/
-│   ├── index.html
-│   ├── dashboard.html
-│   ├── register.html
-│   └── password_reset.html
-│
-├── requirements.txt
-├── .gitignore
-└── README.md
-Medical_project/
-│
-├── manage.py
-├── requirements.txt
-├── .gitignore
-├── README.md
-│
-├── medicalproject/
-│   ├── __init__.py
-│   ├── settings.py
-│   ├── urls.py
-│   ├── asgi.py
-│   └── wsgi.py
-│
-├── medicareapp/
-│   ├── __init__.py
-│   ├── admin.py
-│   ├── apps.py
-│   ├── forms.py
-│   ├── models.py
-│   ├── views.py
-│   ├── urls.py
-│   ├── llm_service.py
-│   ├── tests.py
-│   │
-│   └── migrations/
-│       ├── __init__.py
-│       └── 0001_initial.py
-│
-├── Templates/
-│   ├── index.html
-│   ├── dashboard.html
-│   ├── register.html
-│   └── password_reset.html
-│
-├── media/
-│   └── reports/
-│
-└── static/
-    ├── css/
-    ├── js/
-    └── images/
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/5fe467a1-50ec-4bed-a348-db4380078d11" />
+
 ⚙️ Installation & Setup
 1. Clone the repository
 git clone https://github.com/Sangram-Satpute/Medical_project.git
